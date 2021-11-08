@@ -11,4 +11,6 @@ function createSquare(config) {
     }
     return newSquare;
 }
+
+var mySquare = createSquare({ color: "black" });
 var mySquare = createSquare({ color: "black" });
